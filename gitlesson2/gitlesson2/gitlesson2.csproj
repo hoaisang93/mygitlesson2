@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commit2.cs" />
+    <Compile Include="Commit3.cs" />
     <Compile Include="P1Class.cs" />
     <Compile Include="P1Class2.cs" />
     <Compile Include="Program.cs" />
