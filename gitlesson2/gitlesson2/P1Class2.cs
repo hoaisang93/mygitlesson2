@@ -2,6 +2,10 @@
 {
     class P1Class2
     {
-        //Dosomething here
+        public P1Class2()
+        {
+            System.Console.WriteLine("This is P1Class2 text");
+            System.Console.WriteLine("This is P1Class2 text");
+        }
     }
 }
