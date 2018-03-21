@@ -46,6 +46,7 @@
     <Compile Include="Commit3.cs" />
     <Compile Include="CP1.cs" />
     <Compile Include="CP2.cs" />
+    <Compile Include="mybrach001.cs" />
     <Compile Include="P1Class.cs" />
     <Compile Include="P1Class2.cs" />
     <Compile Include="Program.cs" />
